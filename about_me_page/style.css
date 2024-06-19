@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: dodgerblue;
+    margin: 1em;
+}
+
+p {
+    border: 10px dashed teal;
+    padding: .5em;
+    margin: 1em 0;
+    color: gold;
+}
+
+h1, h3 {
+    background-color: salmon;
+    color: rgba(251, 250, 253, 0.794);
+    padding: .5rem;
+    border: 20px 5px 2px 20px solid blanchedalmond;
+}
+
+h2 {
+    padding: .5em;
+    color: rgba(251, 250, 253, 0.794);;
+}
+
+ol, ul {
+    padding: 1em;border: 
+    10px solid burlywood;
+    margin:1em 0 ;
+    flex:auto;
+}
+
+li {
+    margin-left: 1em;
+    color: cyan;
+}
